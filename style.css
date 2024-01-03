@@ -1,0 +1,18 @@
+
+*{
+    font-family: sans-serif;
+}
+
+.producty{
+    width: 200px;
+    padding: 4px;
+    background-color: #ddd;
+}
+
+.producty > img{
+    max-width: 100%;
+}
+
+#root{
+    margin-top: 20px;
+}
